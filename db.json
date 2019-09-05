@@ -1,0 +1,598 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "user": {
+        "id": "abc123",
+        "nom": "Pape",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      "categorie": "Concert",
+      "organisateur": "Pape",
+      "titre": "Concert Waly Seck",
+      "description": "Yay felines!Yay felines!Faramarene",
+      "location": "Dakar",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "2:00",
+      "photo": "https://picsum.photos/id/0/5616/3744",
+      "tags": "#waly",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 10000
+        },
+        {
+          "id": 3,
+          "libellé": "MIP",
+          "prix": 25000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": "abc321",
+        "nom": "Papis",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+      },
+      "categorie": "Brunch",
+      "organisateur": "Papis",
+      "titre": "Apero for the week",
+      "description": "Yay cats Yay cats Yay cats Yay cats!",
+      "location": "Dakar",
+      "date": "2019-01-31T22:09:00.000Z",
+      "heure": "23:00",
+      "photo": "https://picsum.photos/id/1/5616/3744",
+      "tags": "#apero",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 15000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": "abc231",
+        "name": "Lamzo",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      "categorie": "Soirée",
+      "organisateur": "Lamzo",
+      "titre": "Soirée Sénégalaise",
+      "description": "Yay felines!Yay felines!Faramarene",
+      "location": "Tambacounda",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "2:00",
+      "photo": "https://picsum.photos/id/10/2500/1667",
+      "tags": "#tamba",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 10000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": "abc423",
+        "nom": "Moussa",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+      },
+      "categorie": "Concert",
+      "organisateur": "Moussa",
+      "titre": "Concert Dip Doundou Guiss",
+      "description": "Dou ragal dou respect",
+      "location": "Louga",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "23:59",
+      "photo": "https://picsum.photos/id/100/2500/1656",
+      "tags": "#Dip",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 25000
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": "abc321",
+        "nom": "Papis",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+      },
+      "categorie": "Concert",
+      "organisateur": "Papis",
+      "titre": "Concert Coumba Gawlo Seck",
+      "description": "Yay cats Yay cats Yay cats Yay cats!",
+      "location": "Dakar",
+      "date": "2019-01-31T22:09:00.000Z",
+      "heure": "23:00",
+      "photo": "https://picsum.photos/id/1000/5626/3635",
+      "tags": "#Coumba",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 10000
+        },
+        {
+          "id": 3,
+          "libellé": "MIP",
+          "prix": 25000
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": "abc231",
+        "name": "Lamzo",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+      },
+      "categorie": "Soirée",
+      "organisateur": "Lamzo",
+      "titre": "Soirée Sénégalaise",
+      "description": "Yay felines!Yay felines!Faramarene",
+      "location": "Saint-Louis",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "1:00",
+      "photo": "https://picsum.photos/id/1001/5616/3744",
+      "tags": "#soiree",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 15000
+        },
+        {
+          "id": 3,
+          "libellé": "MIP",
+          "prix": 50000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "user": {
+        "id": "abc123",
+        "nom": "Pape",
+        "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+      },
+      "categorie": "Concert",
+      "organisateur": "Pape",
+      "titre": "Concert Booba",
+      "description": "Yay felines!Yay felines!Faramarene Yay felines!Yay felines!Faramarene",
+      "location": "Dakar",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "2:00",
+      "photo": "https://picsum.photos/id/1002/4312/2868",
+      "tags": "#Booba",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 15000
+        },
+        {
+          "id": 3,
+          "libellé": "MIP",
+          "prix": 55000
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "user": {
+        "id": "bac321",
+        "nom": "Adama",
+        "avatar": "https://randomuser.me/api/portraits/men/8.jpg"
+      },
+      "categorie": "Concert",
+      "organisateur": "Adama",
+      "titre": "Concert à Ngor Garage",
+      "description": "Léboulama Yay cats Yay cats Yay cats Yay cats! Yay cats Yay cats Yay cats Yay cats",
+      "location": "Dakar",
+      "date": "2019-01-31T22:09:00.000Z",
+      "heure": "22:00",
+      "photo": "https://picsum.photos/id/1003/1181/1772",
+      "tags": "#Ngordiarama",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 15000
+        },
+        {
+          "id": 3,
+          "libellé": "MIP",
+          "prix": 25000
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "user": {
+        "id": "abc231",
+        "name": "Lamzo",
+        "avatar": "https://randomuser.me/api/portraits/men/9.jpg"
+      },
+      "categorie": "Brunch",
+      "organisateur": "Lamzo",
+      "titre": "Apéro avec les anciens de ISI",
+      "description": "Yay felines!Yay felines!Faramarene, Yay felines!Yay felines!Faramarene",
+      "location": "Dakar",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "22:00",
+      "photo": "https://picsum.photos/id/1004/5616/3744",
+      "tags": "#Izi",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 15000
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "user": {
+        "id": "abc123",
+        "nom": "Pape",
+        "avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+      },
+      "categorie": "Soirée",
+      "organisateur": "Pape",
+      "titre": "House Party Maison Blanche",
+      "description": "Bubline Yay felines!Yay felines!Faramarene, Yay felines!Yay felines!Faramarene",
+      "location": "Dakar",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "00:00",
+      "photo": "https://picsum.photos/id/1005/5760/3840",
+      "tags": "#Party",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        },
+        {
+          "id": 2,
+          "libellé": "VIP",
+          "prix": 15000
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "user": {
+        "id": "abc321",
+        "nom": "Papis",
+        "avatar": "https://randomuser.me/api/portraits/men/11.jpg"
+      },
+      "categorie": "Cinéma",
+      "organisateur": "Papis",
+      "titre": "Casa de Papel",
+      "description": "Yay cats Yay cats Yay cats Yay cats! Yay cats Yay cats Yay cats Yay cats",
+      "location": "Dakar",
+      "date": "2019-01-31T22:09:00.000Z",
+      "heure": "23:00",
+      "photo": "https://picsum.photos/id/1006/3000/2000",
+      "tags": "#casa",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "user": {
+        "id": "abc231",
+        "nom": "Lamzo",
+        "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+      },
+      "categorie": "Exposition",
+      "organisateur": "Lamzo",
+      "titre": "Expo avec Boubou Design",
+      "description": "Nelson Mandela Yay felines!Yay felines!Faramarene, Yay felines!Yay felines!Faramarene",
+      "location": "Louga",
+      "date": "2019-01-03T21:54:00.000Z",
+      "heure": "2:00",
+      "photo": "https://picsum.photos/id/1008/5616/3744",
+      "tags": "#Mandela",
+      "enavant": 0,
+      "typetickets": [
+        {
+          "id": 1,
+          "libellé": "SIMPLE",
+          "prix": 5000
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "abc231",
+      "nom": "Lamzo",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "about": "When you change the settings in most apps, you click on buttons & check checkboxes & so on. In VSCode (& many other developers’ text editors), you instead edit text files. To change your settings in VSCode, go to Code > Preferences > Settings. The Default Settings are on the left, & your settings (called User Settings) are on the right. To change a setting, copy it from the default on the left, paste it into your settings on the right, make your change, & Save.",
+      "email": "lamzo@gmail.com",
+      "type": 0,
+      "tel": "",
+      "password": "",
+      "mailVerify": false,
+      "phoneVerify": false,
+      "followers": [
+        {
+          "id": "abc123",
+          "nom": "Pape",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": "abc321",
+          "nom": "Papis",
+          "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+          "id": "abc423",
+          "nom": "Moussa",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "abc321",
+      "nom": "Papis",
+      "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+      "about": "When you change the settings in most apps, you click on buttons & check checkboxes & so on. In VSCode (& many other developers’ text editors), you instead edit text files. To change your settings in VSCode, go to Code > Preferences > Settings. The Default Settings are on the left, & your settings (called User Settings) are on the right. To change a setting, copy it from the default on the left, paste it into your settings on the right, make your change, & Save.",
+      "email": "papis@gmail.com",
+      "type": 0,
+      "tel": "",
+      "password": "",
+      "mailVerify": false,
+      "phoneVerify": false,
+      "followers": [
+        {
+          "id": "abc123",
+          "nom": "Pape",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": "abc423",
+          "nom": "Moussa",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "abc123",
+      "nom": "Pape",
+      "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+      "about": "When you change the settings in most apps, you click on buttons & check checkboxes & so on. In VSCode (& many other developers’ text editors), you instead edit text files. To change your settings in VSCode, go to Code > Preferences > Settings. The Default Settings are on the left, & your settings (called User Settings) are on the right. To change a setting, copy it from the default on the left, paste it into your settings on the right, make your change, & Save.",
+      "email": "pape@gmail.com",
+      "type": 0,
+      "tel": "",
+      "password": "",
+      "mailVerify": false,
+      "phoneVerify": false,
+      "followers": [
+        {
+          "id": "abc321",
+          "nom": "Papis",
+          "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+          "id": "abc423",
+          "nom": "Moussa",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bac321",
+      "nom": "Adama",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "about": "When you change the settings in most apps, you click on buttons & check checkboxes & so on. In VSCode (& many other developers’ text editors), you instead edit text files. To change your settings in VSCode, go to Code > Preferences > Settings. The Default Settings are on the left, & your settings (called User Settings) are on the right. To change a setting, copy it from the default on the left, paste it into your settings on the right, make your change, & Save.",
+      "email": "adama@gmail.com",
+      "type": 0,
+      "tel": "",
+      "password": "",
+      "mailVerify": false,
+      "phoneVerify": false,
+      "followers": [
+        {
+          "id": "abc123",
+          "nom": "Pape",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": "abc321",
+          "nom": "Papis",
+          "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+          "id": "abc423",
+          "nom": "Moussa",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "abc423",
+      "nom": "Moussa",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "about": "When you change the settings in most apps, you click on buttons & check checkboxes & so on. In VSCode (& many other developers’ text editors), you instead edit text files. To change your settings in VSCode, go to Code > Preferences > Settings. The Default Settings are on the left, & your settings (called User Settings) are on the right. To change a setting, copy it from the default on the left, paste it into your settings on the right, make your change, & Save.",
+      "email": "moussa@gmail.com",
+      "type": 0,
+      "tel": "",
+      "password": "",
+      "mailVerify": false,
+      "phoneVerify": false,
+      "followers": [
+        {
+          "id": "abc123",
+          "nom": "Pape",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+          "id": "abc321",
+          "nom": "Papis",
+          "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "nom": "Soirée",
+      "image": "https://images.unsplash.com/photo-1545128485-c400e7702796?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "nom": "Concert",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "nom": "Brunch",
+      "image": "https://images.unsplash.com/photo-1549873836-765d3157c324?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "nom": "Cinéma",
+      "image": "https://images.unsplash.com/photo-1548487720-9d3828539043?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "nom": "Exposition",
+      "image": "https://images.unsplash.com/photo-1509558848685-d51aecf76271?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    }
+  ],
+  "zones": [
+    {
+      "id": 1,
+      "nom": "Dakar",
+      "cordonnées": {
+        "lat": "14,12345",
+        "long": "-17,1234"
+      }
+    },
+    {
+      "id": 2,
+      "nom": "Louga",
+      "cordonnées": {
+        "lat": "14,12345",
+        "long": "-17,1234"
+      }
+    },
+    {
+      "id": 3,
+      "nom": "Tambacounda",
+      "cordonnées": {
+        "lat": "14,12345",
+        "long": "-17,1234"
+      }
+    },
+    {
+      "id": 4,
+      "nom": "Saint-Louis",
+      "cordonnées": {
+        "lat": "14,12345",
+        "long": "-17,1234"
+      }
+    }
+  ],
+  "commandes": [
+    {
+      "id": "com1",
+      "date": "2019-01-03T21:54:00.000Z",
+      "event": {
+        "id": 6,
+        "categorie": "Soirée",
+        "organisateur": "Lamzo",
+        "titre": "Soirée Sénégalaise",
+        "description": "Yay felines!Yay felines!Faramarene",
+        "location": "Saint-Louis",
+        "date": "2019-01-03T21:54:00.000Z",
+        "heure": "1:00",
+        "photo": "https://picsum.photos/id/1001/5616/3744",
+        "tags": "#soiree",
+        "typetickets": [
+          {
+            "id": 3,
+            "libellé": "MIP",
+            "prix": 25000
+          }
+        ]
+      },
+      "user": {
+        "id": "abc321",
+        "nom": "Papis",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+      },
+      "status": 0
+    }
+  ]
+}
